@@ -22,9 +22,7 @@
                             <xsl:for-each select="entree">
                                 <tr>
                         
-                                    <td align="center">
-                                        <input name="slot0" type="checkbox" />
-                                    </td>
+                                    
                                     <td>
                                         <xsl:value-of select="slot" />
                                     </td>
