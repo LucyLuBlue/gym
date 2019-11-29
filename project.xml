@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="project.xsl"?>
+<pricelist>
+        <!--    Section 1  -->
+    <section name="WORK EXPERIENCE">
+      <entree>
+        <slot>All day</slot>
+            <price>200</price>
+        </entree>
+    </section>
+        <!--    Section 2  -->
+
+    <section name="COURSES">
+        <entree>
+        <slot>Morning</slot>
+            <price>180</price>
+        </entree>
+        <entree>
+        <slot>Afternoon</slot>
+            <price>150</price>
+        </entree>
+        <entree>
+        <slot>Evening</slot>
+            <price>180</price>
+        </entree>
+    </section>
+    
+    <!--    Section 3  -->
+
+    <section name="HOBBIES">
+        <entree>
+        <slot>Afternoon</slot>
+            <price>100</price>
+        </entree>
+        <entree>
+        <slot>Evening</slot>
+            <price>150</price>
+        </entree>
+    </section>
+    <!--    Section 4  -->
+
+    <section name="SPECIAL EVENTS">
+        <entree>
+        <slot>Afternoon</slot>
+            <price>80</price>
+        </entree>
+    </section>
+    
+</pricelist>
